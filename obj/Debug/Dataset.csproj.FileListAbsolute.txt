@@ -1,0 +1,10 @@
+B:\Sources\Dataset\bin\Debug\Dataset.exe.config
+B:\Sources\Dataset\bin\Debug\Dataset.exe
+B:\Sources\Dataset\bin\Debug\Dataset.pdb
+B:\Sources\Dataset\obj\Debug\Dataset.csprojAssemblyReference.cache
+B:\Sources\Dataset\obj\Debug\Dataset.Properties.Resources.resources
+B:\Sources\Dataset\obj\Debug\Dataset.csproj.GenerateResource.cache
+B:\Sources\Dataset\obj\Debug\Dataset.csproj.CoreCompileInputs.cache
+B:\Sources\Dataset\obj\Debug\Dataset.exe
+B:\Sources\Dataset\obj\Debug\Dataset.pdb
+B:\Sources\Dataset\obj\Debug\Dataset.btnDelete.resources
